@@ -1,0 +1,47 @@
+body {
+    width: 960px;
+    margin: auto;
+}
+
+
+nav div2 {
+    float: right;
+}
+
+
+nav div2 {
+    float:right ;
+    margin-right: 50px;
+}
+nav div2 p {
+    position: absolute;
+}
+
+main section p {
+    text-indent: 50px;
+}
+ 
+ form {
+    background-image: url("../img/background.png");
+    height: 185px;
+    width: 100%;
+    margin-right: 20px;
+    
+    
+}
+
+ form ul {float: left;
+
+    list-style-type: none;
+}
+
+    form ul2 {
+        float: right;
+        list-style-type: none;
+        margin-right: 100px;
+        padding-top: 15px;
+    }
+
+    footer {
+        clear: both;
+    }
